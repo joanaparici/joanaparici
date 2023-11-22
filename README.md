@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Joan Aparici <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=05F73B&random=false&width=435&lines=Web+developer+student;From+Valencia+to+the+world" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=05F73B&center=true&vCenter=true&random=false&width=435&lines=Web+developer+student;From+Valencia+to+the+world" alt="Typing SVG" /></a>
 </p>
 
 
