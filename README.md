@@ -3,15 +3,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=05F73B&center=true&vCenter=true&random=false&width=435&lines=Web+developer+student;From+Valencia+to+the+world" alt="Typing SVG" /></a>
 </p>
 
-
-<br>
-
-<p align="center"> 
-
-
-
-</p>
-
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
