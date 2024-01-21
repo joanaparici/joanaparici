@@ -10,7 +10,7 @@
 
 <br><br>
 
-- :school: I am a student at [CIPFP Mislata](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/(https://www.fpmislata.com/wordpress/)) in Valencia, Spain.
+- :school: I am a student at [CIPFP Mislata](https://www.fpmislata.com/wordpress/) in Valencia, Spain.
 - :rocket: I am enthusiastic about employing software as a solution to solve diverse challenges.
 - :computer: I am a competitive programmer at `Java`, `JavaScript`, `CSS` and `SASS`.
 - :student: I’m currently learning `BEM`.
