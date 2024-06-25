@@ -12,7 +12,7 @@
 
 - :office: I am currently working at [Sopra Steria](https://www.soprasteria.com) in Valencia, Spain.
 - :rocket: I am enthusiastic about employing software as a solution to solve diverse challenges.
-- :computer: I specialize in `Java`, `JavaScript`, `CSS`, `Angular`, and have experience with `hexagonal architecture`, `batch processing`, and `JMS`.
+- :computer: I specialize in `SpringBoot`, `Angular`, and have experience with `hexagonal architecture`, `batch processing`, and `JMS`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m always open to discussing `new opportunities`. This is [MY RESUME](https://www.linkedin.com/in/joan-aparici-morant-1a12741bb/).
 
