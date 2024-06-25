@@ -10,12 +10,12 @@
 
 <br><br>
 
-- :school: I am a student at [CIPFP Mislata](https://www.fpmislata.com/wordpress/) in Valencia, Spain.
+- :office: I am currently working at [Sopra Steria](https://www.soprasteria.com) in Valencia, Spain.
 - :rocket: I am enthusiastic about employing software as a solution to solve diverse challenges.
-- :computer: I am a competitive programmer at `Java`, `JavaScript`, `CSS` and `Angular`.
-- :student: I’m currently learning `Docker`.
+- :computer: I specialize in `Java`, `JavaScript`, `CSS`, `Angular`, and have experience with `hexagonal architecture`, `batch processing`, and `JMS`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://www.linkedin.com/in/joan-aparici-morant-1a12741bb/).
+- :thinking: I’m always open to discussing `new opportunities`. This is [MY RESUME](https://www.linkedin.com/in/joan-aparici-morant-1a12741bb/).
+
 <br>
 
 
